@@ -3,6 +3,9 @@ package tddClass;
 public class Oil {
 
     private int litre;
+    private String location;
+    private String fuel;
+
     private double amount;
     private int fuelPrice = 200;
     private double discount = 0.02;
